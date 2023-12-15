@@ -12,3 +12,7 @@ def wait_seconds(x):
   print('waiting 2 seconds with the normal time.sleep() function:')
   wait_seconds(2)
   print('done')
+
+#things i programmed in mobile github
+name = input("What is your name? ")
+print("Your name is " + name + ", correct?")
